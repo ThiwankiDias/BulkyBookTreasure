@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/Nu0VQq1uM/zlLt30r6fwWf5Z42iE84fc5QXFMGbAC4=",
+  "Hash": "dSVK8lkYWYvvLSmoMN0NCzta60wfO9R9YpOgFQS+wkU=",
   "Source": "BulkyBook-ASPNETCore-Web-MVC",
   "BasePath": "_content/BulkyBook-ASPNETCore-Web-MVC",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\C-sharp-and-dotnet\\BulkyBook\\BulkyBook-ASPNETCore-Web-MVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\BulkyBook-ASPNETCore-Web-MVC.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\C-sharp-and-dotnet\\BulkyBook\\BulkyBook-ASPNETCore-Web-MVC\\wwwroot\\css\\bootstrapWatchThemes.css",
+      "SourceId": "BulkyBook-ASPNETCore-Web-MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\C-sharp-and-dotnet\\BulkyBook\\BulkyBook-ASPNETCore-Web-MVC\\wwwroot\\",
+      "BasePath": "_content/BulkyBook-ASPNETCore-Web-MVC",
+      "RelativePath": "css/bootstrapWatchThemes.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrapWatchThemes.css"
     },
     {
       "Identity": "D:\\C-sharp-and-dotnet\\BulkyBook\\BulkyBook-ASPNETCore-Web-MVC\\wwwroot\\css\\site.css",
