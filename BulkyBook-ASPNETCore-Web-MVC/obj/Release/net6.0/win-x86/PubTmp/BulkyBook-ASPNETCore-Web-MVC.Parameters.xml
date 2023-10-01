@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="BulkyBook-Treasure-AppService" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^D:\\C-sharp-and-dotnet\\BulkyBook\\BulkyBook-ASPNETCore-Web-MVC\\obj\\Release\\net6\.0\\win-x86\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="BulkyBook_ASPNETCore_Web_MVC.Data.ApplicationDbContext" description="" value="Server=tcp:bulky-azure-server.database.windows.net,1433;Initial Catalog=bulky-azure-db;Persist Security Info=False;User ID=admin-sql;Password=git54321@T1;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^D:\\C-sharp-and-dotnet\\BulkyBook\\BulkyBook-ASPNETCore-Web-MVC\\obj\\Release\\net6\.0\\win-x86\\PubTmp\\EFSQLScripts\\BulkyBook_ASPNETCore_Web_MVC\.Data\.ApplicationDbContext\.sql$" />
+  </parameter>
+</parameters>
